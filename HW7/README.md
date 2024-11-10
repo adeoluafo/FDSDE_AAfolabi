@@ -1,1 +1,1 @@
-
+In this homework, I learned how to analyze customer data from a marketing campaign. I learnt more about DBSCAN, data cleaning, scaling the data, ploting histogram, and writing detailed captions based on the instructions given by the instructor. I used external tools to get the assignment done.
