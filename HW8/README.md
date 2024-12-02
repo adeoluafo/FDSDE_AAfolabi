@@ -1,1 +1,1 @@
-
+In this assignment I learned about Neural Networks. I got involved in creating two Artificial Neural Network and a Convolutional Neural Network. I learned how to solve the given problem as a multiclass classification and regression. The most challenging part was building a CNN to solve the problem as a multiclass classification and also the GPU usuage limit problem I encountered. I worked by myself and I made use of online resources for this assignment.
